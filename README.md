@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gRAFIx02
 - 👀 I’m interested in tech and gaming...
-- 🌱 I’m currently studying computer science and engineering.
-- 📫 You can contact me via my email - rafi190041235@gmail.com
+- 🌱 I’m a computer science and engineering graduate.
+- 📫 You can contact me via my email - prottoyrafi235@gmail.com
 
 <!---
 gRAFIx02/gRAFIx02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
