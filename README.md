@@ -1,4 +1,4 @@
-[![Visits Badge](https://badges.pufler.dev/visits/pujux/badge-it)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/gRAFIx02)](https://badges.pufler.dev)
 
 - 👋 Hi, I’m @gRAFIx02
 - 👀 I’m interested in tech and gaming...
