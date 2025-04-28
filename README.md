@@ -1,3 +1,5 @@
+[![Visits Badge](https://badges.pufler.dev/visits/pujux/badge-it)](https://badges.pufler.dev)
+
 - 👋 Hi, I’m @gRAFIx02
 - 👀 I’m interested in tech and gaming...
 - 🌱 I’m a computer science and engineering graduate.
