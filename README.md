@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=gRAFIx02&color=ffcccc)
+![](https://komarev.com/ghpvc/?username=gRAFIx02&color=00ff00)
 
 - 👋 Hi, I’m @gRAFIx02
 - 👀 I’m interested in tech and gaming...
