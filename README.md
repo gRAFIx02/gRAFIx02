@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=gRAFIx02&color=ffcccc)
+
 - 👋 Hi, I’m @gRAFIx02
 - 👀 I’m interested in tech and gaming...
 - 🌱 I’m a computer science and engineering graduate.
